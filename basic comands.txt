@@ -1,0 +1,5 @@
+copy - ctrl + C
+paste - ctrl + V
+save - ctrl + S
+cut - ctrl + X
+undo - ctrl + Z
