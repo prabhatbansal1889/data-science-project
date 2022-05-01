@@ -1,0 +1,14 @@
+Putty commands
+sudo su
+
+Step to add to add stress command to add CPU in auto scaling
+apt-get update -y
+apt-get install stress -y
+stress -c 50 
+
+
+Go to putty 
+Login as ubuntu
+top command- to see how much stress is given to CPU
+stress -c 50
+
